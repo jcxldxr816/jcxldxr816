@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm James Calder, a senior CS student at Truman State University. I don't have a current project, but I am preparing for Hack Midwest!
+
 
 <!--
 **jcxldxr816/jcxldxr816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
