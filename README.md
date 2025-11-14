@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm James Calder, a senior CS student at Truman State University. I don't have a current project, but I am preparing for Hack Midwest!
+I'm James Calder, a senior CS student at Truman State University.
 
 
 <!--
