@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm James Calder, a senior CS student at Truman State University.
+I'm James Calder, a recent CS graduate from Truman State University. I do not have any ongoing projects at this time, although I do have a lot of ideas stewing in my backlog :)
 
 
 <!--
